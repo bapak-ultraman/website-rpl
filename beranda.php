@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Halaman Beranda</title>
+</head>
+<body>
+Selamat Datang
+
+</body>
+</html>
